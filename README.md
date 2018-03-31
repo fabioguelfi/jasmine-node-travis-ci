@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/fabioguelfi/jasmine-node-travis-ci.svg?branch=master)](https://travis-ci.org/fabioguelfi/jasmine-node-travis-ci)
