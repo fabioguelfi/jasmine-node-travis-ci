@@ -4,6 +4,6 @@ describe("suit de test de exemplo com nodejs", () => {
     })
 
     it("deve demonstrar o uso do karma em modo de esculta", () => {
-        expect(1).toEqual(1)
+        expect(1).toEqual(2)
     })
 })
